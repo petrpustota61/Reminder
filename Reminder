@@ -1,0 +1,8 @@
+import time
+
+reminder_text = input("Enter the reminder text: ")
+delay = int(input("Enter the delay in seconds: "))
+
+print("Setting reminder...")
+time.sleep(delay)
+print(f"Reminder: {reminder_text}")
