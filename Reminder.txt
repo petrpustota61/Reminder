@@ -1,0 +1,19 @@
+# Reminder ⏰
+
+A simple script to set text reminders with a delay.
+
+## 📋 Features
+- Set text reminders.
+- Specify delay in seconds.
+
+## 🚀 Quick Start
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/reminder.git
+2.Run the script:
+python reminder.py
+
+Example Usage:
+Enter the reminder text: Take a break!
+Enter the delay in seconds: 10
+Reminder: Take a break!
